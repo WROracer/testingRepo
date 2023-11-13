@@ -3,5 +3,5 @@
 
     <groupId>de.wroracer</groupId>
     <artifactId>action-testing</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.4</version>
 </project>
