@@ -10,3 +10,5 @@ jobs:
       - name: Hello world action step
         id: hello
         uses: WROracer/maven-version-action@master
+        with:
+          url: 'https://WROracer:${{ secrets.github_token }}@github.com/WROracer/testingRepo'
